@@ -4,3 +4,6 @@ pydantic>=2
 python-dotenv
 httpx
 google-genai
+pypdf
+python-docx
+python-multipart 
